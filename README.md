@@ -1,9 +1,4 @@
-Here’s a **clean, professional, GitHub-ready `README.md`** for your ATM MST Clustering project.
-It’s written in a **neutral, formal, industry-standard style** (as required).
 
-You can copy–paste this directly into your repo.
-
----
 
 # **ATM Geo-Clustering Using Minimum Spanning Tree (MST)**
 
