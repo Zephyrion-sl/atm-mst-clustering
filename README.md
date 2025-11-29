@@ -214,8 +214,5 @@ Handles 200–300 ATMs comfortably in real time.
 
 ---
 
-## **14. License**
 
-MIT License.
 
----
